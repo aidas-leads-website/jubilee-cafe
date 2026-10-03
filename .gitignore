@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env*.local
+.vercel
+.DS_Store
+npm-debug.log*
+
+# Lead research and the original prototype: working notes, not part of the site
+/Analysis.md
+/Data.md
+/Design*.md
+/Requirements*.md
+/Jubilee Cafe website prototype.html
